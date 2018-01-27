@@ -228,16 +228,16 @@ msgstr ""
 "Active <abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Route 경로"
 
 msgid "Active Connections"
-msgstr "Active 연결수"
+msgstr "활성 연결수"
 
 msgid "Active DHCP Leases"
-msgstr "Active DHCP 임대 목록"
+msgstr "활성 DHCP 임대 목록"
 
 msgid "Active DHCPv6 Leases"
-msgstr "Active DHCPv6 임대 목록"
+msgstr "활성 DHCPv6 임대 목록"
 
 msgid "Ad-Hoc"
-msgstr ""
+msgstr "애드혹"
 
 msgid "Add"
 msgstr "추가"
@@ -412,7 +412,7 @@ msgid ""
 msgstr ""
 
 msgid "Associated Stations"
-msgstr "연결된 station 들"
+msgstr "연결된 스테이션들"
 
 msgid "Auth Group"
 msgstr ""
@@ -526,7 +526,7 @@ msgid "Bind the tunnel to this interface (optional)."
 msgstr ""
 
 msgid "Bitrate"
-msgstr ""
+msgstr "비트레이트"
 
 msgid "Bogus NX Domain Override"
 msgstr ""
@@ -572,7 +572,7 @@ msgid "Category"
 msgstr ""
 
 msgid "Chain"
-msgstr ""
+msgstr "체인"
 
 msgid "Changes"
 msgstr "변경 사항"
@@ -584,7 +584,7 @@ msgid "Changes the administrator password for accessing the device"
 msgstr "장비 접근을 위한 관리자 암호를 변경합니다"
 
 msgid "Channel"
-msgstr ""
+msgstr "채널"
 
 msgid "Check"
 msgstr ""
@@ -844,7 +844,7 @@ msgid "Design"
 msgstr "디자인"
 
 msgid "Destination"
-msgstr ""
+msgstr "목적지"
 
 msgid "Device"
 msgstr ""
@@ -1184,7 +1184,7 @@ msgid "Firmware File"
 msgstr ""
 
 msgid "Firmware Version"
-msgstr "Firmware 버전"
+msgstr "펌웨어 버전"
 
 msgid "Fixed source port for outbound DNS queries"
 msgstr ""
@@ -1267,7 +1267,7 @@ msgid "GPRS only"
 msgstr ""
 
 msgid "Gateway"
-msgstr ""
+msgstr "게이트웨이"
 
 msgid "Gateway ports"
 msgstr ""
@@ -1534,7 +1534,7 @@ msgid "Image"
 msgstr "이미지"
 
 msgid "In"
-msgstr "In"
+msgstr "입력"
 
 msgid ""
 "In order to prevent unauthorized access to the system, your request has been "
@@ -1649,7 +1649,7 @@ msgid "Kernel Log"
 msgstr "Kernel 로그"
 
 msgid "Kernel Version"
-msgstr "Kernel 버전"
+msgstr "커널 버전"
 
 msgid "Key"
 msgstr ""
@@ -1938,7 +1938,7 @@ msgid "Mobility Domain"
 msgstr ""
 
 msgid "Mode"
-msgstr ""
+msgstr "모드"
 
 msgid "Model"
 msgstr "모델"
@@ -2033,7 +2033,7 @@ msgid "Navigation"
 msgstr ""
 
 msgid "Netmask"
-msgstr ""
+msgstr "넷마스크"
 
 msgid "Network"
 msgstr "네트워크"
@@ -2042,7 +2042,7 @@ msgid "Network Utilities"
 msgstr "네트워크 유틸리티"
 
 msgid "Network boot image"
-msgstr "네트워크 boot 이미지"
+msgstr "네트워크 부팅 이미지"
 
 msgid "Network without interfaces."
 msgstr ""
@@ -2051,40 +2051,40 @@ msgid "Next »"
 msgstr ""
 
 msgid "No DHCP Server configured for this interface"
-msgstr ""
+msgstr "이 인터페이스에 DHCP 서버가 설정되어 있지 않음"
 
 msgid "No NAT-T"
 msgstr ""
 
 msgid "No chains in this table"
-msgstr "이 table 에는 정의된 chain 이 없음"
+msgstr "이 테이블에는 정의된 체인이 없음"
 
 msgid "No files found"
-msgstr ""
+msgstr "파일을 찾을 수 없음"
 
 msgid "No information available"
-msgstr "이용 가능한 정보가 없습니다"
+msgstr "이용 가능한 정보가 없음"
 
 msgid "No negative cache"
-msgstr ""
+msgstr "네거티브 캐시 없음"
 
 msgid "No network configured on this device"
-msgstr ""
+msgstr "이 장치에 네트워크 설정되지 않음"
 
 msgid "No network name specified"
-msgstr ""
+msgstr "네트워크 이름 지정되지 않음"
 
 msgid "No package lists available"
-msgstr ""
+msgstr "패키지 리스트 없음"
 
 msgid "No password set!"
 msgstr "암호 설정을 해주세요!"
 
 msgid "No rules in this chain"
-msgstr ""
+msgstr "이 체인에 규칙 없음"
 
 msgid "No zone assigned"
-msgstr ""
+msgstr "존 할당되어있지 않음"
 
 msgid "Noise"
 msgstr "노이즈"
@@ -2093,7 +2093,7 @@ msgid "Noise Margin (SNR)"
 msgstr ""
 
 msgid "Noise:"
-msgstr ""
+msgstr "노이즈:"
 
 msgid "Non Pre-emtive CRC errors (CRC_P)"
 msgstr ""
@@ -2108,37 +2108,37 @@ msgid "Normal"
 msgstr ""
 
 msgid "Not Found"
-msgstr ""
+msgstr "찾을 수 없음"
 
 msgid "Not associated"
-msgstr ""
+msgstr "연결되지 않음"
 
 msgid "Not connected"
 msgstr "연결되지 않음"
 
 msgid "Note: Configuration files will be erased."
-msgstr ""
+msgstr "메모: 설정 파일이 지워질 것입니다"
 
 msgid "Note: interface name length"
-msgstr ""
+msgstr "메모: 인터페이스 이름 길이"
 
 msgid "Notice"
-msgstr ""
+msgstr "공지"
 
 msgid "Nslookup"
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
 msgid "OPKG-Configuration"
 msgstr "OPKG-설정"
 
 msgid "Obfuscated Group Password"
-msgstr ""
+msgstr "난독화된 그룹 암호"
 
 msgid "Obfuscated Password"
-msgstr ""
+msgstr "난독화된 암호"
 
 msgid "Off-State Delay"
 msgstr ""
@@ -2162,19 +2162,19 @@ msgid "On-State Delay"
 msgstr ""
 
 msgid "One of hostname or mac address must be specified!"
-msgstr ""
+msgstr "하나 이상의 호스트네임 혹은 MAC주소가 지정되어야 합니다!"
 
 msgid "One or more fields contain invalid values!"
-msgstr ""
+msgstr "하나 이상의 유효하지 않은 값이 있습니다!"
 
 msgid "One or more invalid/required values on tab"
 msgstr ""
 
 msgid "One or more required fields have no value!"
-msgstr ""
+msgstr "하나 이상의 필수 필드가 비어있습니다!"
 
 msgid "Open list..."
-msgstr "목록 열람..."
+msgstr "목록 열기..."
 
 msgid "OpenConnect (CISCO AnyConnect)"
 msgstr ""
@@ -2183,19 +2183,19 @@ msgid "Operating frequency"
 msgstr "동작 주파수"
 
 msgid "Option changed"
-msgstr "변경된 option"
+msgstr "변경된 옵션"
 
 msgid "Option removed"
-msgstr "삭제된 option"
+msgstr "삭제된 옵션"
 
 msgid "Optional"
-msgstr ""
+msgstr "선택 사항"
 
 msgid "Optional, specify to override default server (tic.sixxs.net)"
-msgstr ""
+msgstr "선택 사항. 기본 서버를 오버라이드하려면 지정하십시오"
 
 msgid "Optional, use when the SIXXS account has more than one tunnel"
-msgstr ""
+msgstr "선택 사항. SIXXS 계정이 하나 이상의 터널을 가질 때 사용하십시오"
 
 msgid ""
 "Optional. 32-bit mark for outgoing encrypted packets. Enter value in hex, "
@@ -2226,7 +2226,7 @@ msgid "Optional. Maximum Transmission Unit of tunnel interface."
 msgstr ""
 
 msgid "Optional. Port of peer."
-msgstr ""
+msgstr "선택 사항. 피어 포트"
 
 msgid ""
 "Optional. Seconds between keep alive messages. Default is 0 (disabled). "
@@ -2237,19 +2237,19 @@ msgid "Optional. UDP port used for outgoing and incoming packets."
 msgstr ""
 
 msgid "Options"
-msgstr ""
+msgstr "옵션"
 
 msgid "Other:"
-msgstr ""
+msgstr "기타:"
 
 msgid "Out"
-msgstr ""
+msgstr "출력"
 
 msgid "Outbound:"
 msgstr ""
 
 msgid "Output Interface"
-msgstr ""
+msgstr "출력 인터페이스"
 
 msgid "Override MAC address"
 msgstr "MAC 주소 덮어쓰기"
@@ -2258,38 +2258,38 @@ msgid "Override MTU"
 msgstr "MTU 덮어쓰기"
 
 msgid "Override TOS"
-msgstr ""
+msgstr "TOS 덮어쓰기"
 
 msgid "Override TTL"
-msgstr ""
+msgstr "TTL 덮어쓰기"
 
 msgid "Override default interface name"
 msgstr "기본 인터페이스 이름을 덮어씁니다"
 
 msgid "Override the gateway in DHCP responses"
-msgstr ""
+msgstr "DHCP응답의 게이트웨이 덮어쓰기"
 
 msgid ""
 "Override the netmask sent to clients. Normally it is calculated from the "
 "subnet that is served."
 msgstr ""
-"Client 에 전달될 netmask 를 덮어 쓸 수 있습니다.  보통 해당 값은 제공되는 "
-"subnet 에 따라 자동 계산됩니다."
+"클라이언트에 전달될 넷마스크를 덮어 쓸 수 있습니다.  보통 해당 값은 제공되는 "
+"서브넷에 따라 자동 계산됩니다."
 
 msgid "Override the table used for internal routes"
-msgstr ""
+msgstr "내부 라우팅 테이블 덮어쓰기"
 
 msgid "Overview"
 msgstr "개요"
 
 msgid "Owner"
-msgstr ""
+msgstr "소유자"
 
 msgid "PAP/CHAP password"
-msgstr ""
+msgstr "PAP/CHAP 암호"
 
 msgid "PAP/CHAP username"
-msgstr ""
+msgstr "PAP/CHAP 사용자 이름"
 
 msgid "PID"
 msgstr ""
@@ -2304,7 +2304,7 @@ msgid "PPP"
 msgstr ""
 
 msgid "PPPoA Encapsulation"
-msgstr ""
+msgstr "PPPoA 인캡슐레이션"
 
 msgid "PPPoATM"
 msgstr ""
@@ -2319,28 +2319,28 @@ msgid "PPtP"
 msgstr ""
 
 msgid "PSID offset"
-msgstr ""
+msgstr "PSID 오프셋"
 
 msgid "PSID-bits length"
-msgstr ""
+msgstr "PSID-bits 길이"
 
 msgid "PTM/EFM (Packet Transfer Mode)"
-msgstr ""
+msgstr "PTM/EFM (패킷 전달 모드)"
 
 msgid "Package libiwinfo required!"
-msgstr ""
+msgstr "libiwinfo 패키지 필요함"
 
 msgid "Package lists are older than 24 hours"
-msgstr ""
+msgstr "패키지 목록이 24시간보다 오래되었습니다"
 
 msgid "Package name"
 msgstr "패키지 이름"
 
 msgid "Packets"
-msgstr ""
+msgstr "패킷"
 
 msgid "Part of zone %q"
-msgstr ""
+msgstr "존 %q 의 부분"
 
 msgid "Password"
 msgstr "암호"
@@ -2349,43 +2349,43 @@ msgid "Password authentication"
 msgstr "암호 인증"
 
 msgid "Password of Private Key"
-msgstr ""
+msgstr "비밀키 암호"
 
 msgid "Password of inner Private Key"
-msgstr ""
+msgstr "내부 비밀키 암호"
 
 msgid "Password successfully changed!"
-msgstr ""
+msgstr "암호 성공적으로 변경됨"
 
 msgid "Password2"
-msgstr ""
+msgstr "암호2"
 
 msgid "Path to CA-Certificate"
-msgstr ""
+msgstr "CA 인증서 경로"
 
 msgid "Path to Client-Certificate"
-msgstr ""
+msgstr "클라이언트 인증서 경로"
 
 msgid "Path to Private Key"
-msgstr ""
+msgstr "비밀키 경로"
 
 msgid "Path to inner CA-Certificate"
-msgstr ""
+msgstr "내부 CA 인증서 경로"
 
 msgid "Path to inner Client-Certificate"
-msgstr ""
+msgstr "내부 클라이언트 인증서 경로"
 
 msgid "Path to inner Private Key"
-msgstr ""
+msgstr "내부 비밀키 경로"
 
 msgid "Peak:"
 msgstr "최고치:"
 
 msgid "Peer IP address to assign"
-msgstr ""
+msgstr "할당할 피어 IP주소"
 
 msgid "Peers"
-msgstr ""
+msgstr "피어"
 
 msgid "Perfect Forward Secrecy"
 msgstr ""
@@ -2400,22 +2400,22 @@ msgid "Persistent Keep Alive"
 msgstr ""
 
 msgid "Phy Rate:"
-msgstr ""
+msgstr "Phy 속도"
 
 msgid "Physical Settings"
 msgstr "Physical 설정"
 
 msgid "Ping"
-msgstr ""
+msgstr "핑"
 
 msgid "Pkts."
-msgstr "Pkts."
+msgstr "패킷"
 
 msgid "Please enter your username and password."
 msgstr "사용자이름과 암호를 입력해 주세요."
 
 msgid "Policy"
-msgstr ""
+msgstr "정책"
 
 msgid "Port"
 msgstr "포트"
@@ -2424,16 +2424,16 @@ msgid "Port status:"
 msgstr "포트 상태:"
 
 msgid "Power Management Mode"
-msgstr ""
+msgstr "전원 관리 모드"
 
 msgid "Pre-emtive CRC errors (CRCP_P)"
 msgstr ""
 
 msgid "Prefer LTE"
-msgstr ""
+msgstr "LTE 우선"
 
 msgid "Prefer UMTS"
-msgstr ""
+msgstr "UMTS 우선"
 
 msgid "Prefix Delegated"
 msgstr ""
@@ -2447,52 +2447,52 @@ msgid ""
 msgstr ""
 
 msgid "Prevent listening on these interfaces."
-msgstr ""
+msgstr "이 인터페이스들에서 리스닝 금지"
 
 msgid "Prevents client-to-client communication"
-msgstr ""
+msgstr "클라이언트간 통신 금지"
 
 msgid "Prism2/2.5/3 802.11b Wireless Controller"
-msgstr ""
+msgstr "Prism2/2.5/3 802.11b 무선 컨트롤러"
 
 msgid "Private Key"
-msgstr ""
+msgstr "비밀키"
 
 msgid "Proceed"
-msgstr ""
+msgstr "진행"
 
 msgid "Processes"
 msgstr "프로세스"
 
 msgid "Profile"
-msgstr ""
+msgstr "프로파일"
 
 msgid "Prot."
-msgstr "Prot."
+msgstr "프로토콜"
 
 msgid "Protocol"
 msgstr "프로토콜"
 
 msgid "Protocol family"
-msgstr ""
+msgstr "프로토콜 패밀리"
 
 msgid "Protocol of the new interface"
-msgstr ""
+msgstr "새 인터페이스의 프로토콜"
 
 msgid "Protocol support is not installed"
-msgstr ""
+msgstr "프로토콜 지원이 설치되지 않음"
 
 msgid "Provide NTP server"
-msgstr ""
+msgstr "NTP 서버 제공"
 
 msgid "Provide new network"
 msgstr "새로운 네트워크를 추가합니다"
 
 msgid "Pseudo Ad-Hoc (ahdemo)"
-msgstr ""
+msgstr "의사 Ad-Hoc (ahdemo)"
 
 msgid "Public Key"
-msgstr ""
+msgstr "공개키"
 
 msgid "Public prefix routed to this device for distribution to clients."
 msgstr ""
@@ -2501,28 +2501,28 @@ msgid "QMI Cellular"
 msgstr ""
 
 msgid "Quality"
-msgstr ""
+msgstr "품질"
 
 msgid "R0 Key Lifetime"
-msgstr ""
+msgstr "R0 키 수명"
 
 msgid "R1 Key Holder"
-msgstr ""
+msgstr "R1 키 홀더"
 
 msgid "RFC3947 NAT-T mode"
-msgstr ""
+msgstr "RFC3947 NAT-T 모드"
 
 msgid "RTS/CTS Threshold"
-msgstr ""
+msgstr "RTS/CTS 임계치"
 
 msgid "RX"
-msgstr ""
+msgstr "수신"
 
 msgid "RX Rate"
-msgstr ""
+msgstr "수신 속도"
 
 msgid "RaLink 802.11%s Wireless Controller"
-msgstr ""
+msgstr "RaLink 802.11%s 무선 컨트롤러"
 
 msgid "Radius-Accounting-Port"
 msgstr ""
@@ -2590,7 +2590,7 @@ msgid "Realtime Traffic"
 msgstr "실시간 트래픽"
 
 msgid "Realtime Wireless"
-msgstr ""
+msgstr "실시간 무선"
 
 msgid "Reassociation Deadline"
 msgstr ""
@@ -2602,7 +2602,7 @@ msgid "Reboot"
 msgstr "재부팅"
 
 msgid "Rebooting..."
-msgstr ""
+msgstr "재부팅 중..."
 
 msgid "Reboots the operating system of your device"
 msgstr "장치의 운영체제를 재부팅합니다"
@@ -2611,10 +2611,10 @@ msgid "Receive"
 msgstr ""
 
 msgid "Receiver Antenna"
-msgstr ""
+msgstr "수신 안테나"
 
 msgid "Recommended. IP addresses of the WireGuard interface."
-msgstr ""
+msgstr "권장됨. WireGard 인터페이스의 IP주소"
 
 msgid "Reconnect this interface"
 msgstr "이 인터페이스를 재연결합니다"
@@ -2623,7 +2623,7 @@ msgid "Reconnecting interface"
 msgstr "인터페이스 재연결중입니다"
 
 msgid "References"
-msgstr ""
+msgstr "참조"
 
 msgid "Relay"
 msgstr ""
@@ -2632,7 +2632,7 @@ msgid "Relay Bridge"
 msgstr ""
 
 msgid "Relay between networks"
-msgstr ""
+msgstr "네트워크간 전달"
 
 msgid "Relay bridge"
 msgstr ""
@@ -2647,13 +2647,13 @@ msgid "Remove"
 msgstr "제거"
 
 msgid "Repeat scan"
-msgstr ""
+msgstr "스캔 재시도"
 
 msgid "Replace entry"
 msgstr ""
 
 msgid "Replace wireless configuration"
-msgstr ""
+msgstr "무선 설정 대체"
 
 msgid "Request IPv6-address"
 msgstr ""
@@ -2662,16 +2662,16 @@ msgid "Request IPv6-prefix of length"
 msgstr ""
 
 msgid "Require TLS"
-msgstr ""
+msgstr "TLS 요구"
 
 msgid "Required"
-msgstr ""
+msgstr "요구됨"
 
 msgid "Required for certain ISPs, e.g. Charter with DOCSIS 3"
 msgstr "특정 ISP 들에 요구됨.  예: Charter (DOCSIS 3 기반)"
 
 msgid "Required. Base64-encoded private key for this interface."
-msgstr ""
+msgstr "요구됨. 이 인터페이스의 Base64 인코딩된 비밀키"
 
 msgid "Required. Base64-encoded public key of peer."
 msgstr ""
@@ -2696,10 +2696,10 @@ msgid "Reset"
 msgstr "초기화"
 
 msgid "Reset Counters"
-msgstr "Counter 초기화"
+msgstr "카운터 초기화"
 
 msgid "Reset to defaults"
-msgstr "초기값으로 reset"
+msgstr "기본값으로 초기화"
 
 msgid "Resolv and Hosts Files"
 msgstr "Resolv 와 Hosts 파일"
@@ -2732,10 +2732,10 @@ msgid "Root preparation"
 msgstr ""
 
 msgid "Route Allowed IPs"
-msgstr ""
+msgstr "라우팅 허용된 IP"
 
 msgid "Route type"
-msgstr ""
+msgstr "라우트 타입"
 
 msgid "Routed IPv6 prefix for downstream interfaces"
 msgstr ""
@@ -2747,20 +2747,20 @@ msgid "Router Password"
 msgstr "라우터 암호"
 
 msgid "Routes"
-msgstr "Route 경로"
+msgstr "라우트 경로"
 
 msgid ""
 "Routes specify over which interface and gateway a certain host or network "
 "can be reached."
 msgstr ""
-"Route 경로는 특정 호스트 혹은 네트워크가 사용해야 할 인터페이스와 gateway 정"
+"라우트 경로는 특정 호스트 혹은 네트워크가 사용해야 할 인터페이스와 gateway 정"
 "보를 나타냅니다."
 
 msgid "Run a filesystem check before mounting the device"
-msgstr ""
+msgstr "장치를 마운트하기 전 파일시스템 점검 실행"
 
 msgid "Run filesystem check"
-msgstr ""
+msgstr "파일시스템 점검 실행"
 
 msgid "SHA256"
 msgstr ""
@@ -2777,19 +2777,19 @@ msgid "SNR"
 msgstr ""
 
 msgid "SSH Access"
-msgstr ""
+msgstr "SSH 접근"
 
 msgid "SSH server address"
-msgstr ""
+msgstr "SSH 서버 주소"
 
 msgid "SSH server port"
-msgstr ""
+msgstr "SSH 서버 포트"
 
 msgid "SSH username"
-msgstr ""
+msgstr "SSH 사용자 이름"
 
 msgid "SSH-Keys"
-msgstr ""
+msgstr "SSH 키"
 
 msgid "SSID"
 msgstr "SSID"
@@ -2804,16 +2804,16 @@ msgid "Save &#38; Apply"
 msgstr "저장 &#38; 적용"
 
 msgid "Scan"
-msgstr "Scan 하기"
+msgstr "스캔"
 
 msgid "Scheduled Tasks"
 msgstr "작업 관리"
 
 msgid "Section added"
-msgstr "추가된 section"
+msgstr "섹션 추가됨"
 
 msgid "Section removed"
-msgstr "삭제된 section"
+msgstr "섹션 삭제됨"
 
 msgid "See \"mount\" manpage for details"
 msgstr ""
@@ -2830,7 +2830,7 @@ msgid "Server Settings"
 msgstr "서버 설정"
 
 msgid "Server password"
-msgstr ""
+msgstr "서버 암호"
 
 msgid ""
 "Server password, enter the specific password of the tunnel when the username "
@@ -2838,13 +2838,13 @@ msgid ""
 msgstr ""
 
 msgid "Server username"
-msgstr ""
+msgstr "서버 사용자 이름"
 
 msgid "Service Name"
-msgstr ""
+msgstr "서비스 이름"
 
 msgid "Service Type"
-msgstr ""
+msgstr "서비스 타입"
 
 msgid "Services"
 msgstr "서비스"
@@ -2858,7 +2858,7 @@ msgid "Set up Time Synchronization"
 msgstr ""
 
 msgid "Setup DHCP Server"
-msgstr ""
+msgstr "DHCP서버 설정"
 
 msgid "Severely Errored Seconds (SES)"
 msgstr ""
@@ -2927,7 +2927,7 @@ msgid "Sort"
 msgstr "순서"
 
 msgid "Source"
-msgstr ""
+msgstr "출발지"
 
 msgid "Source routing"
 msgstr ""
